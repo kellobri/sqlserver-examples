@@ -1,0 +1,13 @@
+default:
+  dataconnection:
+    driver: 'SQLServer'
+    server: 'rstudio-eval.database.windows.net'
+    port: 1433
+    database: 'evalDB'
+    
+rsconnect:
+  dataconnection:
+    driver: 'SQLServer'
+    server: 'rstudio-eval.database.windows.net'
+    port: 1433
+    database: 'evalDB'
