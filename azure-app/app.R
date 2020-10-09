@@ -1,6 +1,5 @@
 #
-# Pretty Version
-# Shinyapps.io Azure SQL Connection App
+# Azure SQLServer Connection App
 #
 
 library(shiny)
